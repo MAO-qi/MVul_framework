@@ -1,0 +1,9 @@
+http://96.38.149.4/config/getuser?index=0
+http://73.68.150.87:8080/config/getuser?index=0
+http://149.75.55.192/config/getuser?index=0
+http://118.189.178.207:8080/config/getuser?index=0
+http://68.50.197.124:8080/config/getuser?index=0
+http://101.127.148.8:8080/config/getuser?index=0
+http://189.151.142.61/config/getuser?index=0
+http://218.212.212.186:3128/config/getuser?index=0
+http://174.17.50.217:8080/config/getuser?index=0
